@@ -1,0 +1,19 @@
+
+query UsersList {
+  users {
+    data{
+    id
+    name
+    username
+    email
+    }
+  }
+}
+
+
+
+
+
+
+
+
